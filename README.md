@@ -151,6 +151,10 @@ An avid Slack user? A developer looking for awesome tools to build out an integr
 - [tickbot](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 
+### Open Source Slack Apps & Integrations
+- [Briefops Slack App](https://github.com/jpantsjoha/briefops-public) - An Open Sourced, Enterprise-Grade Slack Integration that provides Private, Secure summaries of Documents, 📺YouTube videos,🧑‍💻 Slack Channel conversations and now features in-channel 🔎 Google Search & Summarisation. Project inception shared on [Google Cloud Community Blog](https://medium.com/google-cloud/slack-googlecloud-briefops-streamlining-slack-comms-with-gcp-ai-powered-summarisation-ec2151672731)
+
+
 ## :busts_in_silhouette: &nbsp; Contributions
 
 Contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
